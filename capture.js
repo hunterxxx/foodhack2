@@ -108,10 +108,10 @@
                 type: "POST",
                 url: "www.google.com",
                 data: {"img": imgdata},
-                success: function (data) {
+/*                success: function (data) {
                     $("#answer").text(data.answer);
                     $("#confidence").text(data.confidence);
-                },
+                },*/
                 error: function (XMLHttpRequest, textStatus, errorThrown) {
                     console.log("got error!");
                     alert(errorThrown);
