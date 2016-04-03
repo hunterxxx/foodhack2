@@ -1,0 +1,104 @@
+{	
+	"name":"tomato",
+	"protein":"1.58g",
+	"fat":"0.36g", 
+	"calcium":"18mg",
+	"sodium":"9mg",
+	"vitaminA":"1499.4 IU",
+	"vitaminC": "24.66 mg",
+	"country":"GB"
+},
+{	
+	"name":"pumpkin",
+	"protein":"0.01 g",
+	"fat":"0.00 g", 
+	"calcium":"0.21 mg",
+	"sodium":"0.01 mg",
+	"vitaminA":"85.13 IU",
+	"vitaminC":"0.09 mg",
+	"country":"US"
+},
+{	
+	"name":"orange",
+	"protein":"0.84 g",
+	"fat":"0.10 g",
+	"calcium":"36 mg",
+	"sodium":"0 mg",
+	"vitaminA":"202.5 IU",
+	"vitaminC":"47.88 mg",
+	"country":"GB"
+},
+{	
+	"name":"apple",
+	"protein":"0.16 g",
+	"fat":"0.10 g",
+	"calcium":"3.75 mg",
+	"sodium":"0.62 mg",
+	"vitaminA":"33.75 IU",
+	"vitaminC":"2.87 mg",
+	"country":"GB"
+},
+{	
+	"name":"broccoli",
+	"protein":"1.24 g",
+	"fat":"0.16 g",
+	"calcium":"20.68 mg",
+	"sodium":"14.52 mg",
+	"vitaminA":"274.12 IU",
+	"vitaminC":"39.24 mg",
+	"country":"AU"
+},
+{	
+	"name":"lemon",
+	"protein":"0.07 g",
+	"fat":"0.02 g",
+	"calcium":"1.82 mg",
+	"sodium":"0.14 mg",
+	"vitaminA":"1.54 IU",
+	"vitaminC":"3.71 mg",
+	"country":"US"
+},
+{	
+	"name":"banana",
+	"protein":"1.37 g",
+	"fat":"0.41 g",
+	"calcium":"6.3 mg",
+	"sodium":"1.26 mg",
+	"vitaminA":"80.64 IU",
+	"vitaminC":"10.96 mg",
+	"_comment":"only banana shallot",
+	"country":"GB"
+},
+{	
+	"_comment":"from usda data",
+	"name":"strawberry",
+	"protein":"0.98g",
+	"fat":"0.44g",
+	"calcium":"24mg",
+	"sodium":"1mg",
+	"vitaminA":"18 IU",
+	"vitaminC":"86.4mg",
+	"country":"US"
+},
+{	
+	"name":"lettuce",
+	"protein":"2.49 mg",
+	"fat":"0.12 g",
+	"calcium":"16.02 mg",
+	"sodium":"8.9 mg",
+	"vitaminA":"446.78 IU",
+	"vitaminC":"2.49 mg",
+	"country":"US"
+},
+{	
+	"_comment":"from usda data",
+	"_commentportion":"6g",
+	"name":"grape",
+	"protein":"0.05g",
+	"fat":"0.03g",
+	"calcium":"2mg",
+	"sodium":"0mg",
+	"vitaminA":"4 IU",
+	"vitaminC":"0.4mg",
+	"country":"US"
+},
