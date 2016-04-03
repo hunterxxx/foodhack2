@@ -106,12 +106,12 @@
       imgdata = imgdata.replace('data:image/png;base64,', '');  // 頭のいらない部分を落とす
       $.ajax({
                 type: "POST",
-                url: "www.google.com",
+                url: "query",
                 data: {"img": imgdata},
-/*                success: function (data) {
+                success: function (data) {
                     $("#answer").text(data.answer);
                     $("#confidence").text(data.confidence);
-                },*/
+                },
                 error: function (XMLHttpRequest, textStatus, errorThrown) {
                     console.log("got error!");
                     alert(errorThrown);
